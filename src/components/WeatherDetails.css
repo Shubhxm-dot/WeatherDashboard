@@ -7,4 +7,6 @@
     text-align: center; /* Center text */
     background-color: #f0f0f0; /* Optional: Set a background color */
   }
-  
+  body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #86a8e7);
+}
