@@ -32,7 +32,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   input {
-    border: 1px solid #ccc;
+    border: 3px solid #ccc;
     border-radius: 5px;
     padding: 8px;
     width: 200px;
