@@ -1,6 +1,10 @@
 import { createGlobalStyle } from 'styled-components';
 
 const GlobalStyles = createGlobalStyle`
+ body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b, #86a8e7);
+}
+
   * {
     margin: 0;
     padding: 0;
